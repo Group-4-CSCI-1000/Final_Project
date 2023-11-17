@@ -27,8 +27,8 @@ export default function Home() {
             <p>Click here to navigate to an example page</p>
           </a>
           <a href='/Brooke ' className='card'>
-            <h3>Example Brooke Page &rarr;</h3>
-            <p>Click here to navigate to the Brooke page</p>
+            <h3>Brooke's Page &rarr;</h3>
+            <p>Click here to navigate to Brooke's page</p>
           </a>
           <a href='/Michael ' className='card'>
             <h3>Michael Page &rarr;</h3>
